@@ -1,0 +1,10 @@
+const createVirtualGrid = (gridSize) => {
+    const grid = [...Array(gridSize).keys()].map(()=>{
+        return[...Array(gridSize).keys()].map(()=>{
+            return 0
+        })
+    })
+    return(grid)
+}
+
+export default createVirtualGrid

@@ -1,1 +1,10 @@
 Demineur project
+lucid : https://lucid.app/lucidchart/2478320e-d8c6-48b8-96f4-fe8514623c51/edit?invitationId=inv_dc2647fe-5b32-42a0-8af5-5a7154c05401
+
+Etapes:
+1- Créer un grille virtuelle
+2- Générer le nombre de bombes
+3- Placer les bombes aléatoirement
+4- Scanner la grille pour afficher les chiffres autour des bombes
+5- Créer la grille visuelle
+6- Intégrer les effets au clic (drapeau, dévoiler contenu...)
